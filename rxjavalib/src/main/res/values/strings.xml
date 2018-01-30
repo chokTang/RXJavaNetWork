@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RxJavalib</string>
+    <string name="error_net_hint">网络已断开，请检查网络</string>
+    <string name="system_hint">系统提示</string>
+    <string name="negative">取消</string>
+    <string name="positive">确定</string>
+    <string name="hint">提示</string>
+</resources>

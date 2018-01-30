@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false"  >
+    <item android:drawable="@drawable/a10001" android:duration="35"></item>
+    <item android:drawable="@drawable/a10002" android:duration="35"></item>
+    <item android:drawable="@drawable/a10003" android:duration="35"></item>
+    <item android:drawable="@drawable/a10004" android:duration="35"></item>
+    <item android:drawable="@drawable/a10005" android:duration="35"></item>`
+    <item android:drawable="@drawable/a10006" android:duration="35"></item>
+    <item android:drawable="@drawable/a10007" android:duration="35"></item>
+    <item android:drawable="@drawable/a10008" android:duration="35"></item>
+    <item android:drawable="@drawable/a10009" android:duration="35"></item>
+    <item android:drawable="@drawable/a10010" android:duration="35"></item>
+    <item android:drawable="@drawable/a10011" android:duration="35"></item>
+    <item android:drawable="@drawable/a10012" android:duration="35"></item>
+    <item android:drawable="@drawable/a10013" android:duration="35"></item>
+    <item android:drawable="@drawable/a10014" android:duration="35"></item>
+    <item android:drawable="@drawable/a10015" android:duration="35"></item>
+    <item android:drawable="@drawable/a10016" android:duration="35"></item>
+    <item android:drawable="@drawable/a10017" android:duration="35"></item>
+    <item android:drawable="@drawable/a10018" android:duration="35"></item>
+    <item android:drawable="@drawable/a10019" android:duration="35"></item>
+    <item android:drawable="@drawable/a10020" android:duration="35"></item>
+    <item android:drawable="@drawable/a10021" android:duration="35"></item>
+    <item android:drawable="@drawable/a10022" android:duration="35"></item>
+    <item android:drawable="@drawable/a10023" android:duration="35"></item>
+    <item android:drawable="@drawable/a10024" android:duration="35"></item>
+    <item android:drawable="@drawable/a10025" android:duration="35"></item>
+    <item android:drawable="@drawable/a10026" android:duration="35"></item>
+    <item android:drawable="@drawable/a10027" android:duration="35"></item>
+    <item android:drawable="@drawable/a10028" android:duration="35"></item>
+    <item android:drawable="@drawable/a10029" android:duration="35"></item>
+    <item android:drawable="@drawable/a10030" android:duration="35"></item>
+    <item android:drawable="@drawable/a10031" android:duration="35"></item>
+    <item android:drawable="@drawable/a10032" android:duration="35"></item>
+    <item android:drawable="@drawable/a10033" android:duration="35"></item>
+    <item android:drawable="@drawable/a10034" android:duration="35"></item>
+    <item android:drawable="@drawable/a10035" android:duration="35"></item>
+    <item android:drawable="@drawable/a10036" android:duration="35"></item>
+    <item android:drawable="@drawable/a10037" android:duration="35"></item>
+</animation-list>

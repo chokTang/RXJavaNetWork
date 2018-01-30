@@ -10,7 +10,7 @@ allprojects {
   
 Step2.在app的gradle中添加依赖
 dependencies {
-	        compile 'com.github.chokTang:RXJavaNetWork:v1.0.0'
+	        compile 'com.github.chokTang:RXJavaNetWork:v1.0.1'
 	}
 	
 	

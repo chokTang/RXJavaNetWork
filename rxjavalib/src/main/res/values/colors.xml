@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="titleDivider">#bebebe</color>
+    <color name="theme_color">#d90003</color>
+    <color name="theme_bg">#f0f0f0</color>
+
+    <color name="home_yellow">#ffb400</color>
+    <color name="home_gray">#787878</color>
+    <!--home -->
+    <color name="black">#000000</color>
+    <color name="background">#f0f0f0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#f0f0f0</color>
+    <color name="search_gray">#d8d8d8</color>
+    <color name="line_gray">#cccccc</color>
+    <color name="text_black">#454545</color>
+    <color name="text_444">#444444</color>
+    <color name="text_hint_gray">#939393</color>
+    <color name="divider">#e4e4e4</color>
+    <color name="text_dark_gray">#757575</color>
+    <color name="line_dark_gray">#d6d6d6</color>
+    <color name="category_tab_highlight_bg">#ff2095f2</color>
+
+    <!--message -->
+    <color name="title_black">#32373a</color>
+    <color name="text_gray">#9e9e9e</color>
+    <color name="green">#76c15d</color>
+    <color name="light_gray">#fff5f5f5</color>
+    <color name="bg_input">#fbfbfb</color>
+    <!--personal info -->
+    <color name="edit_text_hint">#aaaaaa</color>
+    <color name="edit_text_color">#001220</color>
+    <color name="text_hint_black">#999999</color>
+    <color name="translation">#0000</color>
+
+
+    <color name="backgroundColor">#E8E8E0</color>
+    <color name="backgroundColorPress">#DBDBD3</color>
+    <color name="red">#FF3B00</color>
+    <color name="red_press">#990000</color>
+    <color name="dark_gray">#4C535B</color>
+    <color name="dark_gray_press">#ff7e8a97</color>
+    <color name="fulltranparent">#00ffffff</color>
+
+
+    <color name="black63">#333333</color>
+    <color name="black66">#666666</color>
+    <color name="black68">#888888</color>
+
+    <color name="half_translate">#55000000</color>
+    <color name="translate_10">#16000000</color>
+    <color name="translate_20">#32000000</color>
+    <color name="translate_40">#64000000</color>
+
+    
+    <color name="leader_yellow">#ffb400</color>
+    <color name="leader_red">#ff785e</color>
+    <color name="leader_green">#82c247</color>
+    <color name="leader_blue">#379aff</color>
+
+    <color name="biz_audio_progress_bg">#00b2ff</color>
+    <color name="biz_audio_progress_first">#ffffff</color>
+    <color name="biz_audio_progress_second">#6b6666</color>
+    <color name="cp_alpha_gray">#CC646464</color>
+    <color name="cp_colorAccent">#F3F3F3</color>
+    <color name="cp_colorPrimary">@color/cp_colorAccent</color>
+    <color name="cp_colorPrimaryDark">@color/cp_colorAccent</color>
+    <color name="cp_common_bg">#FAFAFA</color>
+    <color name="cp_content_bg">@color/cp_colorAccent</color>
+    <color name="cp_divider">#E5E5E5</color>
+    <color name="cp_gray">#8c8c8c</color>
+    <color name="cp_gray_deep">#5c5c5c</color>
+    <color name="cp_shadow">#AAEBEBEB</color>
+    <color name="cp_theme_gray">#646464</color>
+    <color name="color_FFA54E">#FFA54E</color>
+</resources>

@@ -12,6 +12,8 @@ Step2.在app的gradle中添加依赖
 dependencies {
 	        compile 'com.github.chokTang:RXJavaNetWork:v1.0.0'
 	}
+	
+	
  
 Step3.您需要请求的Activity继承MainActivity并且实现NetworkCallback接口，fragment也是实现networkCallback接口
 public class NetWorkActivity extends MainActivity implements MainActivity.NetworkCallback{

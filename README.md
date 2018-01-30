@@ -14,7 +14,6 @@ dependencies {
 	}
 	
 	
- 
 Step3.您需要请求的Activity继承MainActivity并且实现NetworkCallback接口，fragment也是实现networkCallback接口
 public class NetWorkActivity extends MainActivity implements MainActivity.NetworkCallback{
     @Override
@@ -23,7 +22,8 @@ public class NetWorkActivity extends MainActivity implements MainActivity.Networ
     }
  
 这里的参数s是返回的json字符串，i是你请求时候对应的请求码
- 
+
+
 Step4.在生命周期中oncreate调用该接口
 
     @Override
